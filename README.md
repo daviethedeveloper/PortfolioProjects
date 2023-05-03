@@ -23,12 +23,11 @@ In this project, I performed sentiment analysis on customer reviews for a hotel 
 - Data cleaning and manipulation using Python and SQL
 - Data visualization using Matplotlib, Seaborn, and Tableau
 - Statistical analysis using hypothesis testing and regression analysis
-- Machine learning using scikit-learn and TensorFlow
-- Natural language processing using NLTK and TextBlob
+- Machine learning using scikit-learn
 
 ## Contact
 
-If you have any questions or would like to discuss potential job opportunities, please feel free to contact me at [your email address].
+If you have any questions or would like to discuss potential job opportunities, please feel free to contact me at daviethedev781@gmail.com.
 
 Thank you for considering my portfolio.
 

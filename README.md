@@ -27,7 +27,7 @@ In this project, I performed sentiment analysis on customer reviews for a hotel 
 
 ## Contact
 
-If you have any questions or would like to discuss potential job opportunities, please feel free to contact me at daviethedev781@gmail.com.
+If you have any questions or would like to discuss potential job opportunities, please feel free to contact me at daviethedev781@gmail.com
 
 Thank you for considering my portfolio.
 
